@@ -9,8 +9,9 @@
 4. Queue
 5. Tree
   *heap
-6. Graph
-7. Hash
+   *queue
+7. Graph
+8. Hash
 
 ## 알고리즘
 **Search**
