@@ -8,8 +8,7 @@
 3. Stack
 4. Queue
 5. Tree
-  *heap
-   *queue
+   * heap
 7. Graph
 8. Hash
 
