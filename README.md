@@ -18,7 +18,6 @@
   2. Binary search
   1. Depth first search (DFS)
   2. Breadth fitst search (BFS)
-  3. 
 
 **Sort**
   1. Bubble sort
@@ -27,6 +26,3 @@
   4. Quick sort
   5. Heap sort
   6. Merge sort
-
-**
- 
